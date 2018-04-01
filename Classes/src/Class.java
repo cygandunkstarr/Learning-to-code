@@ -24,6 +24,8 @@ public class Class {
 		Person person3 = new Person();
 		person2.name = "Musa Sibanda";
 		person2.age = 50;
+		
+		System.out.println(person1.name);
 				
 
 	}
