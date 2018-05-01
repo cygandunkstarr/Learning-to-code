@@ -30,8 +30,9 @@ public class Class {
 		person2.speak();
 		
 		Person person3 = new Person();
-		person2.name = "Musa Sibanda";
-		person2.age = 50;
+		person3.name = "Musa Sibanda";
+		person3.age = 50;
+		person3.speak();
 		
 		System.out.println(person1.name);
 				
